@@ -36,3 +36,7 @@ tags:
 ## 5. Правила документації
 
 - [[Note-Conventions]]
+
+## 6. Онтологія застосунку
+
+- [[Ontology-TaskFlow]]
