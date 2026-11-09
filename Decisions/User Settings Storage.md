@@ -11,7 +11,7 @@ status: accepted
 
 # Architecture Decision: User Settings Storage
 
-**Статус: Запропоновано — не затверджено.**
+**Статус: Затверджено.**
 
 ### Context
 
